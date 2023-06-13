@@ -1,0 +1,143 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: white;
+    color: #333333;
+}
+
+main {
+    text-align: center;
+}
+
+article {
+    display: inline-block;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    max-width: 650px;
+    text-align: left;
+    font-family: georgia, "times new roman", times, serif;
+}
+
+article h1 {
+    text-align: center;
+    font-size: 48px;
+    grid-column: 1/13;
+    line-height: 1.1;
+    max-width: 15em;
+    margin: 0 auto;
+    letter-spacing: 0em; /* was -0.03 */
+    font-family: georgia, "times new roman", times, serif;
+    font-weight: 400;
+}
+
+article h2 {
+    font-size: 2.25rem;
+    font-weight: 300;
+    font-size: 2rem;
+    line-height: 1.1;
+}
+
+article p, article ol, article ul {
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+}
+
+article a, article a:visited, article a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    color: #4298B5;
+}
+
+article a:hover {
+    text-decoration: none;
+}
+
+article img {
+    max-width: 100%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+article h2.article-author {
+    font-family: helvetica, arial, sans-serif;
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 1rem;
+}
+
+article h2.article-author a, article h2.article-author a:visited, article h2.article-author a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    color: inherit;
+}
+
+article h2.article-author a:hover {
+    text-decoration: none;
+}
+
+article h3.article-date {
+    font-family: helvetica, arial, sans-serif;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 1rem;
+}
+
+article hr {
+    width: 75%;
+    border: none;
+    border-top: 1px solid #ebebeb;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+article hr.full-width {
+    border-color: #666666;
+    width: 100%;
+}
+
+article hr.half-width {
+    width: 50%;
+}
+
+article p.closing-info-paragraph {
+    font-family: helvetica, arial, sans-serif;
+    font-weight: 500;
+    font-size: 0.9375rem;
+    line-height: 1.25rem;
+}
+
+article .visualization-container {
+    padding: 0;
+    margin: 0;
+}
+
+article .visualization {
+    width: 100%;
+    max-width: 650px;
+}
+
+article figcaption {
+    margin-top: 1em;
+}
+
+article #union-map {
+    min-height: 350px;
+    background-color: slategrey;
+}
+
+.mapboxgl-popup {
+    max-width: 400px;
+    font: 12px/20px georgia, "times new roman", times, serif;
+}
+
+#affiliation-chart-toggle {
+    cursor: pointer;
+    background-color: #67AFD2;
+    border: none;
+    padding: 0.5em;
+    color: white;
+    margin-top: 0.75em;
+    border-radius: 0.25em;
+}

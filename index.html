@@ -1,0 +1,87 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <title>Student worker unionization in the United States</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="css/main.css"/>
+        <link href="https://api.mapbox.com/mapbox-gl-js/v2.14.0/mapbox-gl.css" rel="stylesheet">
+    </head>
+    <body>
+        <main>
+            <article>
+                <h1>Student worker unionization in the United States</h1>
+                <hr class="full-width"/>
+                <h2 class="article-author">By <a href="https://evanbaldonado.com" title="Evan Baldonado's website" target="_blank">Evan Baldonado</a></h2>
+                <h3 class="article-date">June 2023</h3>
+                <p>Student workers at colleges and universities across the United States are unionizing in the pursuit of safe and accessible working conditions, the right to a living wage, and more. If you are a student worker interested in unionizing, this page will tell you what you need to know.</p>
+                <h2>What is unionization?</h2>
+                <p>According to the <a href="https://www.dol.gov/general/workcenter/unions-101" title="Unions 101" target="_blank">U.S. Department of Labor</a>, &ldquo;a labor union is a group of two or more employees who join together to advance common interests such as wages, benefits, schedules and other employment terms and conditions [...] Unions are membership-driven, democratic organizations governed by laws that require financial transparency and integrity, fair elections and other democratic standards, and fair representation of all workers.&rdquo;</p>
+                <h2>Where is unionization happening?</h2>
+                <p>Many student workers at colleges all around the country have unionized or are in the process of unionizing. You can see a map of known efforts (at four-year undergraduate and graduate institutions) below:</p>
+                <p>Of the 200+ unions we identified, most of them appeared to be clustered across the East and West coasts, as well as the Midwest.</p>
+                <figure class="visualization-container" id="map">
+                    <div id="union-map" class="visualization"></div>
+                    <figcaption>A map of student worker unions. Pinch/drag to navigate. Click on a point to see more details (including the union's website, if applicable).</figcaption>
+                </figure>
+                <h2>With whom do student worker unions affiliate?</h2>
+                <p>Generally, individual unions will &ldquo;affiliate&rdquo; with a larger, [often] national union. A key principle of unions is that people are stronger together. This same principle can be applied to unions themselves: affiliation allows for resource pooling and unified support. According to the <a href="https://sgwu.us/faq/" title="FAQ" target="_blank">Stanford Graduate Workers Union</a>, &ldquo;Affiliation with a national union structure allows for workers to pool their resources, which in turn provides them with financial support for workplace actions and campaigns, legal expertise in grievance procedures, and training for rank-and-file union reps, among many other benefits.&rdquo;</p>
+                <p>You can see a table of the most common affiliations of student unions below:</p>
+                <figure class="visualization-container" id="aggregated-affiliations">
+                    <table id="affiliation-table" class="visualization">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Union</th>
+                                <th>Count</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                    <figcaption id="affiliation-caption">A table of union affiliations (aggregated by system). Click to toggle whether unionized schools within a system are counted as a single entity or aggregated (ex: whether each of the schools that make up the University of California (UC) System are counted separately).</figcaption>
+                </figure>
+                <button id="affiliation-chart-toggle">view unaggregated</button>
+                <p>Regardless of whether unions are aggregated by system, the six most popular six remain the same (although their ordering switches up slightly) and collectively account for >80% of all affiliations.</p>
+                <p>Also, note that student worker unions can affiliate with nationals that are explicitly academic in scope: take, for example, the <a href="https://www.aft.org/" target="_blank">American Federation of Teachers (AFT)</a>. Other unions, such as <a href="https://uaw.org/" target="_blank">United Auto Workers (UAW)</a> and <a href="https://cwa-union.org/" target="_blank">Communications Workers of America Union (CWA)</a> are less evidently academic in nature. Over the years, however, some of these have <a href="https://prospect.org/labor/how-did-those-uc-grad-students-become-auto-workers/" target="_blank">expanded or changed their scopes</a> to support student workers.</p>
+                <h2>How do student worker unions fight for better pay?</h2>
+                <p>One area in which many student worker unions organize is around pay/compensation for work. This section focuses on UC Berkeley as a case study, although many unions all around the country have achieved similar gains.</p>
+                <p>The donut chart below shows a breakdown of the costs associated with living as a single adult (with no children) in Alameda County, California (where Berkeley is located). These costs are from the <a href="https://livingwage.mit.edu/counties/06001" target="_blank">MIT Living Wage Calculator</a>, and they include food, medical, housing, transportation, civic, and, miscellaneous expenses in addition to taxes; together, they sum to $46,356 annually (note: the source data includes a $46,488 required pre-tax income, and it is unclear what accounts for the $132 difference).</p>
+                <figure class="visualization-container" id="cost-of-living">
+                    <canvas id="cost-donut-chart-1" class="visualization"></canvas>
+                    <figcaption>A donut chart of the costs associated with a living salary in Alameda County, California. Hover over a section to see more details.</figcaption>
+                </figure>
+                <p>To put the pay of a student worker at Berkeley in the context of the cost of living in Alameda County, note that, according to <a href="https://www.glassdoor.com/Salaries/uc-berkeley-teaching-assistant-salary-SRCH_IL.0,11_IC1164021_KO12,30.htm" target="_blank">Glassdoor</a>, the estimated average total pay of a Teaching Assistant (TA) at Berkeley is $41,041 annually ($39,059 base pay; $1,982 additional pay; the amount is prorated for students not working the entire year). This is approximately 88–89% of the cost of living, and the remainder will have to come from savings, additional work, taking out loans, or going into debt. The two-ringed donut chart below shows the estimated average TA pay (outer ring) around the cost of living (inner ring).</p>
+                <figure class="visualization-container" id="pay">
+                    <canvas id="cost-donut-chart-2" class="visualization"></canvas>
+                    <figcaption>A donut chart of the costs associated with a living salary in Alameda County, California (inner ring), overlaid by the current average TA salary at Berkeley (outer ring). Hover over a section to see more details.</figcaption>
+                </figure>
+                <p>Fortunately for TAs and other student workers at Berkeley and at other University of California schools, &ldquo;unions secured a two-and-a-half year contract [in December 2022] that included a 7.5% salary increase for teaching assistants (TAs) and associate instructors&rdquo; (<a href="https://www.chemistryworld.com/news/university-of-california-strike-ends-as-employees-secure-significant-pay-rises-and-new-contracts/4016746.article" target="_blank">Trager, 2023</a>). This 7.5% increase applied to an annual pay of $41,041 will result in a new estimated pay of ~$44,119. The three-ringed donut chart below shows this new pay (outer ring) in the context of the current pay (middle ring) and the cost of living (inner ring).</p>
+                <figure class="visualization-container" id="union-pay">
+                    <canvas id="cost-donut-chart-3" class="visualization"></canvas>
+                    <figcaption>A donut chart of the costs associated with a living salary in Alameda County, California (inner ring), overlaid by the current average TA salary (middle ring) and the union-won TA raises (outer ring) at Berkeley. Hover over a section to see more details.</figcaption>
+                </figure>
+                <p>Although the new estimated average pay of TAs at Berkeley still falls short of the costs of living in Alameda County (also note that the cost of living will likely increase due to inflation in the 2.5 years over which the 7.5% increase will occur), it is clear that union-won pay increases will help many student workers at Berkeley and across the UC System.</p>
+                <p>This is just one example of what a single union can do for student workers in one issue area (pay/compensation). What could your union do for you?</p>
+                <hr/>
+                <p>As a student worker, there are many reasons why you may want to consider joining a union. Student worker unions are commonplace around the United States, and there are hundreds of them; you will not be alone in joining a union. Unions provide strength in numbers to support you and your rights as a worker.</p>
+                <p>You can use the <a href="#map" target="_self">map</a> above to find out more about any union-organizing efforts at your university, and, if there aren't any yet, you can read <a href="https://devonprice.medium.com/forming-a-student-workers-union-a-guide-7f4c611c7dcf" target="_blank">this guide</a> about how to get started.</p>
+                <hr class="full-width"/>
+                <p class="closing-info-paragraph">This project was created by <a href="https://evanbaldonado.com" target="_blank">Evan Baldonado</a> for Stanford University's <a href="https://humanrights.stanford.edu/minor-human-rights/human-rights-minor-capstone" target="_blank">Human Rights Minor Capstone</a> under the advising of Professor <a href="https://haridecoded.com/" target="_blank">Hari Subramonyam</a>.</p>
+                <p class="closing-info-paragraph"><strong>Conflict of interest disclosure</strong>: the author also created the <a href="https://sgwu.us/" target="_blank">website</a> for the Stanford Graduate Workers Union.</p>
+                <p class="closing-info-paragraph"><strong>Data collection</strong>: the author manually assembled a novel <a href="data/union-data-6-12-23.csv" target="_blank">dataset</a> of student worker unions in the United States. This process involved contacting local and national unions, reading through existing lists, and scanning through social media. Latitude/longitude coordinates were obtained by querying Mapbox's <a href="https://docs.mapbox.com/api/search/geocoding/" target="_blank">Geocoding API</a>. Please direct update requests or other inquiries to <a href="mailto:unions@evanbaldonado.com">unions@evanbaldonado.com</a>.</p>
+                <p class="closing-info-paragraph"><strong>Source code</strong>: source code for this project is available on <a href="https://github.com/evanbaldonado/human-rights-capstone" target="_blank">GitHub</a>.</p>
+                <p class="closing-info-paragraph"><strong>License</strong>: this project (including the dataset, article, and code) is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</a>, meaning others are allowed to share and adapt it, provided attribution is provided (to <a href="https://evanbaldonado.com" target="_blank">Evan Baldonado</a>) and that derivative works are licensed similarly.</p>
+            </article>
+        </main>
+        <!-- Import d3.js -->
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <!-- Import Chart.js -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+        <!-- Import Mapbox GL JS -->
+        <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.0/mapbox-gl.js"></script>
+        <script src="js/geocode.js"></script>
+        <script src="js/display-map.js"></script>
+        <script src="js/visualize-affiliations.js"></script>
+        <script src="js/visualize-cost-donuts.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,246 @@
+School,Is campus?,Count?,Members,Founded,Created via merge,Foundational org begins,Organizing begins,Authorization card signing begin,Voted to affiliate,NLRB certified,Link,Affiliation,Notes,Type,Latitude (via Mapbox),Longitude (via Mapbox),City (via GPT),County (via GPT),State (via GPT),Living wage (state),Latitude,Longitude
+American University,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,not on site,seiu500.org/augrads,SEIU,Local 500,Private,,,"Washington, D.C.","American University is located in Washington, D.C., which is located in the District of Columbia.",District of Columbia,$23.13,38.9380,-77.0889
+Arizona State University,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,not on site,ucwarizona.org,UCW,part of same union as UA,Public,,,Tempe,Maricopa,Arizona,$17.43,33.416893,-111.932727
+University of Arizona,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,not on site,ucwarizona.org,UCW,part of same union as ASU,Public,,,Tucson,Pima,Arizona,$17.43,32.229585,-110.953811
+Boston College,,,not on site,not on site,not on site,not on site,2015,2016,,2017,bcgradunion.com,UAW,,Private,,,Boston,Suffolk,Massachusetts,$21.88,42.3358655,-71.1694295
+Boston University,,,3000,not on site,not on site,not on site,2016,not on site,2021,not on site,bugradworkers.org,SEIU,,Private,,,Boston,Suffolk,Massachusetts,$21.88,42.350692,-71.1063435
+Brandeis University,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,not on site,no website,SEIU,Local 509,Private,,,Waltham,Norfolk,Massachusetts,$21.88,42.366078,-71.259119
+Brown University,,,not on site,not on site,not on site,2014,not on site,not on site,not on site,not on site,glounion.org,AFT,,Private,,,Providence,Providence,Rhode Island,$17.80,41.8261575,-71.403962
+Central Michigan University,,,not on site,not on site,not on site,not on site,2009,not on site,not on site,not on site,cmugsu.org,AFT,Local 6522,Public,,,Mount Pleasant,Isabella,Michigan,$16.36,43.5891095,-84.77563950000001
+City University of New York (CUNY),System,"x19 (6 community colleges not on this list, too)",30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,"""The Professional Staff Congress (PSC) is the labor union representing some 27,000 CUNY faculty, staff, and graduate student workers.""",Public,,,New York,New York,New York,$21.99,40.771234,-73.947933
+Baruch College,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,New York,New York,$21.99,40.740397,-73.98406
+The City College,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,New York,New York,$21.99,40.819952,-73.949274
+Graduate Center,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,New York,New York,$21.99,40.748540000000006,-73.9838295
+Graduate School of Public Health & Health Policy,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,New York,New York,$21.99,40.442659,-79.959196
+Hunter College,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,New York,New York,$21.99,40.767824,-73.964216
+John Jay College of Criminal Justice,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,New York,New York,$21.99,40.770316,-73.988378
+Macaulay Honors College,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,New York,New York,$21.99,40.7740085,-73.9801955
+Newmark Graduate School of Journalism,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,New York,New York,$21.99,40.807413,-73.963673
+School of Labor and Urban Studies,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,New York,New York,$21.99,40.7551,-73.9817
+School of Medicine,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,Allegheny,New York,$21.99,32.874722,-117.236052
+School of Professional Studies,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,New York,New York,$21.99,40.734436,-73.993801
+Lehman College,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,Bronx,New York,$21.99,40.873055,-73.8937945
+Brooklyn College,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,Kings,New York,$21.99,40.63089,-73.954151
+College of Technology,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,Harris,New York,$21.99,44.6029,-75.1856
+Medgar Evers College,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,Kings,New York,$21.99,40.666404,-73.956944
+College of Staten Island,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,Richmond,New York,$21.99,40.6010105,-74.14918800000001
+Queens College,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,Queens,New York,$21.99,40.736579000000006,-73.81690449999999
+School of Law,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,Kings,New York,$21.99,47.609447,-122.317547
+York College,CUNY,,30000 (includes faculty/staff),not on site,1972,not on site,not on site,not on site,not on site,not on site,psc-cuny.org,AFT,,,,,New York,York,New York,$21.99,39.946639000000005,-76.7295795
+Clark University,,,not on site,not on site,not on site,not on site,2020,not on site,not on site,not on site,https://linktr.ee/CUGWU,Teamsters,Local 170,Private,,,Worcester,Worcester,Massachusetts,$21.88,42.2511345,-71.823174
+College of William & Mary,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,not on site,https://ucwva.org/william-mary,UCW,,Public,,,Williamsburg,James City,Virginia,$19.40,37.270846000000006,-76.710005
+Columbia University,,,3000 (grad/undergrad),not on site,not on site,not on site,not on site,not on site,not on site,2017,studentworkersofcolumbia.com,UAW,Local 2710. columbiagradunion.org now redirects,Private,,,New York City,New York,New York,$21.99,40.807223,-73.9622875
+Cornell University,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,not on site,cornellgradunion.org,unknown,,Private,,,Ithaca,Tompkins,New York,$21.99,42.447684,-76.480715
+California State University (CSU),System,x23,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,,San Luis Obispo,California,$21.82,35.349879,-119.10402400000001
+"California State University, Bakersfield",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Bakersfield,Kern,California,$21.82,35.349879,-119.10402400000001
+California State University Channel Islands,CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Camarillo,Ventura,California,$21.82,34.164305999999996,-119.0413125
+"California State University, Chico",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Chico,Butte,California,$21.82,39.730658500000004,-121.8472375
+"California State University, Dominguez Hills",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Carson,Los Angeles,California,$21.82,33.864397499999995,-118.255111
+"California State University, East Bay",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Hayward,Alameda,California,$21.82,37.655547,-122.055876
+"California State University, Fresno",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Fresno,Fresno,California,$21.82,36.813169,-119.7478585
+"California State University, Fullerton",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Fullerton,Orange,California,$21.82,33.880694,-117.88466149999999
+"California Polytechnic State University, Humboldt",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Arcata,San Luis Obispo,California,$21.82,35.300903000000005,-120.659479
+"California State University, Long Beach",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Long Beach,Los Angeles,California,$21.82,33.781739,-118.114674
+"California State University, Los Angeles",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Los Angeles,Los Angeles,California,$21.82,34.0675,-118.167581
+California State University Maritime Academy,CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Vallejo,San Mateo,California,$21.82,38.069630000000004,-122.229991
+"California State University, Monterey Bay",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Seaside,Monterey,California,$21.82,36.6531365,-121.798341
+"California State University, Northridge",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Northridge,Los Angeles,California,$21.82,34.239649,-118.531647
+"California Polytechnic State University, Pomona",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Pomona,Los Angeles,California,$21.82,35.300903000000005,-120.659479
+"California State University, Sacramento",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Sacramento,Sacramento,California,$21.82,38.561616,-121.422256
+"California State University, San Bernardino",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,San Bernardino,San Bernardino,California,$21.82,34.1820255,-117.324157
+San Diego State University,CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,San Diego,San Diego,California,$21.82,32.7752265,-117.071346
+San Francisco State University,CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,San Francisco,San Francisco,California,$21.82,37.728582,-122.482306
+San José State University,CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,San José,Santa Clara,California,$21.82,37.335365499999995,-121.8811115
+"California Polytechnic State University, San Luis Obispo",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,San Luis Obispo,San Luis Obispo,California,$21.82,35.300903000000005,-120.659479
+California State University San Marcos,CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,San Marcos,San Diego,California,$21.82,33.128586999999996,-117.159571
+Sonoma State University,CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Rohnert Park,Sonoma,California,$21.82,38.338244,-122.67521
+"California State University, Stanislaus",CSU,,"10000 (TAs, GAs, & ISAs across 23 campuses)",2004,not on site,not on site,not on site,not on site,not on site,not on site,uaw4123.org,UAW,Local 4123. Many campuses,Public,,,Turlock,Stanislaus,California,$21.82,37.5249565,-120.85607
+Dartmouth College,,,not on site,not on site,not on site,not on site,2021,2022,not on site,2023,goldartmouth.org,UE,,Private,,,Hanover,Grafton,New Hampshire,$17.32,43.701188,-72.287934
+Duke University,,,not on site,2017,not on site,not on site,2016,not on site,not on site,not on site,dukegradunion.org,SEIU,,Private,,,Durham,Durham,North Carolina,$17.14,36.001218125,-78.93810350000001
+Emerson College,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,not on site,emersoncollegestudentsunion.com,unknown,,Private,,,Boston,Suffolk,Massachusetts,$21.88,42.3520535,-71.06586200000001
+Emory University,,,not on site,not on site,not on site,not on site,not on site,2022,not on site,not on site,emoryunite.org,SEIU,,Private,,,Atlanta,Dekalb,Georgia,$17.64,33.768566750000005,-84.38637825
+Florida A&M,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,not on site,https://www.uff-famu-gau.org/,,,Public,,,Tallahassee,Leon,Florida,$17.24,25.746907,-80.352406
+Fordham University,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,not on site,fordhamgraduatestudentworkers.com,CWA,,Private,,,New York City,Bronx,New York,$21.99,40.861041,-73.88549
+Georgetown University,,,not on site,2017,not on site,not on site,not on site,not on site,not on site,not on site,wearegage.org,AFT,,Private,,,"Washington, D.C.",District of Columbia,District of Columbia,$23.13,38.911961,-77.078807
+Georgia Institute of Technology,,,not on site,2018,not on site,not on site,not on site,not on site,not on site,not on site,ucwga.com/georgia-institute-technology,CWA,Local 3265,Public,,,Atlanta,Fulton,Georgia,$17.64,33.7763205,-84.394711
+Grinnell College,,,650,2016,not on site,not on site,not on site,not on site,not on site,not on site,ugsdw.org,,it expanded to be more than just people working in dining hall,Private,,,"Grinnell, Iowa",Poweshiek,Iowa,$16.18,41.7500685,-92.720068
+Harvard University,,,not on site,2015,not on site,not on site,not on site,not on site,not on site,2018,harvardgradunion.org,UAW,grad,Private,,,Cambridge,Middlesex,Massachusetts,$21.88,42.3737614375,-71.1181085
+Harvard University,,,not on site,2023 (public launch),not on site,not on site,not on site,not on site,not on site,not on site,https://linktr.ee/harvarduwu,,undergrad,Private,,,Cambridge,Middlesex,Massachusetts,$21.88,42.3737614375,-71.1181085
+Hofstra University,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,not on site,none,unknown,"""This new coalition, known as the Hofstra Student Employee Union, plans to pick up where the former student workers coalition left off."" thehofstrachronicle.com/category/news/2022/4/12/hofstra-student-employees-demand-minimum-wage",Private,,,Hempstead,Nassau,New York,$21.99,40.715411,-73.59991500000001
+University of Illinois Chicago,,,1500,not on site,not on site,1988,not on site,1997,not on site,not on site,uicgeo.org,IFT/AFT,Used to be uic-geo.net,Public,,,Chicago,Cook,Illinois,$18.16,41.873436,-87.650264
+University of Illinois Springfield,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,not on site,none,,Doesn't seem to be online but referenced here https://www.uis.edu/hr/labor-employee-relations,Public,,,Springfield,Sangamon,Illinois,$18.16,39.728530500000005,-89.61797999999999
+University of Illinois Urbana–Champaign,,,2700,1995,unclear,unclear,unclear,unclear,unclear,,uiucgeo.org,IFT/AFT,Local 6300,Public,,,Urbana,Champaign,Illinois,$18.16,40.11054,-88.2269005
+Illinois State University,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,not on site,sites.google.com/view/isu-gwu,SEIU,Local 73,Public,,,Normal,McLean,Illinois,$18.16,40.510963000000004,-88.9928295
+Iowa State University,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,not on site,none,,"""Graduate Student Voices is currently collaborating with one of the largest labor unions in the United States, United Electrical Radio and Machine Workers of America, to build support for a graduate worker union at ISU."" https://iowastatedaily.com/266486/opinion/valuing-graduate-student-workers-starts-with-unionizing/",Public,,,Ames,Story,Iowa,$16.18,42.026508,-93.64733
+Indiana University-Bloomington,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,not on site,indianagradworkers.org,UE,Just the Bloomington campus,Public,,,Bloomington,Monroe,Indiana,$15.79,39.17028,-86.514676
+Johns Hopkins University,,,not on site,not on site,not on site,not on site,2014,not on site,not on site,not on site,trujhu.org,UE,,Private,,,Baltimore,Baltimore,Maryland,$19.74,39.328937499999995,-76.6204945
+Louisiana State University,,,not on site,not on site,not on site,not on site,2018,not on site,not on site,not on site,ucw-la.org,CWA,Local 3465,Public,,,Baton Rouge,East Baton Rouge Parish,Louisiana,$16.15,30.416954,-91.174945
+Loyola University Chicago,,,,,,,,,,,loyolagradunion.wixsite.com/home,unknown,,Private,,,Chicago,Cook,Illinois,$18.16,41.998188,-87.656028
+Marquette University,,,,,,,,,,,twitter.com/MarquetteUnion,unknown,used to be https://mawulocal.org,Private,,,Milwaukee,Milwaukee,Wisconsin,$16.40,43.039054,-87.932597
+"University of Massachusetts, Amherst",,,,,,,,,,,geouaw.org,UAW,,Public,,,Amherst,Hampshire,Massachusetts,$21.88,42.388894,-72.527413
+"University of Massachusetts, Boston",,,,,,,,,,,geoumb.org,UAW,Local 1596,Public,,,Boston,Suffolk,Massachusetts,$21.88,42.314196,-71.038149
+Massachusetts Institute of Technology (MIT),,,,,,,,,,,mitgsu.org,UE,,Private,,,Cambridge,Middlesex,Massachusetts,$21.88,42.358984,-71.0935805
+"University of Massachusetts, Lowell",,,,,,,,,,,https://sites.google.com/site/geoumasslowell/,UAW,Local 1596,Public,,,Lowell,Middlesex,Massachusetts,$21.88,42.652516500000004,-71.324012
+University of Michigan,,,,,,,,,,,geo3550.org,AFT,Local 3550,Public,,,Ann Arbor,Washtenaw,Michigan,$16.36,42.281083,-83.73267
+Michigan State University,,,,,,,,,,,geuatmsu.org,AFT,,Public,,,East Lansing,Ingham,Michigan,$16.36,42.7265225,-84.481054
+University of Minnesota,System,,,,,,,,,,umnglu.org,UE,,Public,,,,Hennepin,Minnesota,$17.74,44.969408,-93.230152
+University of Minnesota Crookston,University of Minnesota,,,,,,,,,,,UE,,,,,Crookston,Polk,Minnesota,$17.74,47.799965,-96.60825700000001
+University of Minnesota Duluth,University of Minnesota,,,,,,,,,,,UE,,,,,Duluth,St. Louis,Minnesota,$17.74,46.8190805,-92.08342999999999
+University of Minnesota Morris,University of Minnesota,,,,,,,,,,,UE,,,,,Morris,Stevens,Minnesota,$17.74,45.5896585,-95.901465
+University of Minnesota Rochester,University of Minnesota,,,,,,,,,,,UE,,,,,Rochester,Olmsted,Minnesota,$17.74,44.022469,-92.463615
+University of Minnesota Twin Cities,University of Minnesota,,,,,,,,,,,UE,,,,,Minneapolis and St. Paul,Hennepin,Minnesota,$17.74,44.991164,-93.224335
+University of Nebraska–Lincoln,,,,,,,,,,,twitter.com/UnionizeUnl,unknown,,Public,,,Lincoln,Lancaster,Nebraska,$16.60,40.8178045,-96.702037
+New School,,,,,,,,,,,sensuaw.org,UAW,Local 7902,Private,,,New York City,New York,New York,$21.99,40.736586,-73.996482
+New York University (NYU),,,,,,,,,,,makingabetternyu.org,UAW,Local 2110 ← same as second columbia?,Private,,,New York City,New York,New York,$21.99,40.729421375,-73.99417925
+North Carolina State University,,,,,,,,,,,bit.ly/m/WorkersAtState,UE,Local 150,Public,,,Raleigh,Wake,North Carolina,$17.14,35.7861945,-78.6727755
+Northeastern University,,,,,,,,,,,nugradunion.com,UAW,,Private,,,Boston,Suffolk,Massachusetts,$21.88,42.3397355,-71.0883555
+Northwestern University,,,,,,,,,,,nugradworkers.org,UE,,Private,,,Evanston,Cook,Illinois,$18.16,42.0530945,-87.6752305
+Oregon State University,,,,,,,,,,,cge6069.org,AFT,Local 6059,Public,,,Corvallis,Benton,Oregon,$19.51,44.5643185,-123.27684049999999
+Pennsylvania State University,,,,,,,,,,,cgepsu.org,unknown,,Public,,,State College,Centre,Pennsylvania,$16.67,40.797229,-77.870724
+Princeton University,,,,,,,,,,,princetongsu.org,UE,,Private,,,"Princeton, NJ",Mercer,New Jersey,$20.57,40.3451335,-74.65832225
+Purdue University,,,,,,,,,,,facebook.com/coaltionofgraduateemployeesatpurdueuniversity,unknown,,Public,,,West Lafayette,Tippecanoe,Indiana,$15.79,40.416012,-86.929836
+Rensselaer Polytechnic Institute,,,,,,,,,,,linktr.ee/rpi_ra_union,OPEIU,Local 153,Private,,,Troy,Rensselaer,New York,$21.99,42.7300305,-73.67859899999999
+Rice University,,,,,,,,,,,,,,Private,,,Houston,Harris,Texas,$16.41,29.717171,-95.4018215
+Rutgers University,,,,,,,,,,,https://rutgersaaup.org/graduate-students/,AAUP,AAUP is an affiliate of AFT,Public,,,New Brunswick,Middlesex,New Jersey,$20.57,40.499053,-74.451482
+University of Southern California (USC),,,,,,,,,,,gswoc-usc.org,UAW,,Private,,,Los Angeles,Los Angeles,California,$21.82,34.022018,-118.2853775
+Southern Illinois University at Carbondale,,,,,,,,,,,gaunited.org,NEA,,Public,,,Carbondale,Jackson,Illinois,$18.16,37.716717,-89.2164
+Stanford University,,,,,,,,,,,sgwu.us,UE,,Private,,,Palo Alto,Santa Clara,California,$21.82,37.424892,-122.168986
+State University of New York (SUNY),System,,,,,,,,,,cwa1104gseu.com,CWA,across all SUNY. note that there are 64+ campuses?,Public,,,Albany,Albany,New York,$21.99,42.680157,-73.837624
+Cornell University College of Agriculture and Life Sciences,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,42.4482,-76.4794
+Cornell University College of Human Ecology,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,42.450434,-76.478729
+Cornell University School of Industrial and Labor Relations,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,39.278143,-80.581487
+Cornell University College of Veterinary Medicine,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,42.4456715,-76.47764649999999
+NYS College of Ceramics,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,42.2533,-77.7876
+SUNY College of Environmental Science and Forestry,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,43.0349625,-76.135762
+College of Optometry,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,35.137878,-90.0202625
+Downstate Medical Center,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,40.6552505,-73.9450875
+SUNY Polytechnic Institute,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,42.691116,-73.833052
+Upstate Medical University,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,43.041647,-76.140376
+Buffalo State University,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,42.93458,-78.883727
+Empire State College,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,40.785021,-73.579157
+Purchase College,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,41.0475365,-73.70158850000001
+State University of New York at Geneseo,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,42.7959745,-77.819731
+State University of New York at New Paltz,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,41.741721,-74.0833705
+State University of New York at Oswego,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,43.4506795,-76.54428999999999
+State University of New York at Potsdam,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,44.662181000000004,-74.9738845
+SUNY Oneonta,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,42.496814,-75.061212
+SUNY Cortland,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,42.596903499999996,-76.190024
+SUNY Fredonia,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,42.453386,-79.336996
+SUNY Plattsburgh,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,44.693417,-73.46643700000001
+State University of New York Brockport,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,43.210967,-77.9497255
+The College at Old Westbury,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,40.811253,-73.604449
+Alfred State College,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,42.254801,-77.791546
+SUNY Farmingdale,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,40.752769,-73.4275915
+Maritime College,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,40.8074,-73.7968
+Morrisville State College,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,42.893617,-75.640774
+SUNY Canton,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,44.60368,-75.1837495
+SUNY Cobleskill,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,42.6724175,-74.4986155
+SUNY Delhi,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,,,,,,,,,42.26991,-74.92414
+SUNY Albany,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,across all SUNY. note that there are 64+ campuses?,Public,,,Albany,Albany,New York,$21.99,42.684506,-73.823261
+SUNY Binghamton,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,across all SUNY. note that there are 64+ campuses?,Public,,,Binghamton,Broome,New York,$21.99,42.0906475,-75.969123
+SUNY Stony Brook,State University of New York (SUNY),,,,,,,,,,cwa1104gseu.com,CWA,across all SUNY. note that there are 64+ campuses?,Public,,,Stony Brook,Suffolk,New York,$21.99,40.9132405,-73.1182325
+Syracuse University,,,,,,,,,,,syracusegradsunited.org,SEIU,Local 200 United,Private,,,Syracuse,Onondaga,New York,$21.99,43.038514,-76.13476
+Temple University,,,,,,,,,,,tugsa.org,AFT,6290,Public,,,Philadelphia,Philadelphia,Pennsylvania,$16.67,39.9808005,-75.155202
+University of Texas,System,,,,,,,,,,cwa-tseu.org,CWA,,,,,,Travis,,,30.285167,-97.741487
+UT Arlington,University of Texas,,,,,,,,,,cwa-tseu.org,CWA,,,,,,Tarrant,,,32.726317,-97.117807
+UT El Paso,University of Texas,,,,,,,,,,cwa-tseu.org,CWA,,,,,,El Paso,,,31.7732,-106.5047
+UT Permian Basin,University of Texas,,,,,,,,,,cwa-tseu.org,CWA,,,,,,Ector,,,31.8900875,-102.328946
+UT Rio Grande Valley,University of Texas,,,,,,,,,,cwa-tseu.org,CWA,,,,,,Hidalgo,,,40.751744,-111.890019
+UT San Antonio,University of Texas,,,,,,,,,,cwa-tseu.org,CWA,,,,,,Bexar,,,29.5831,-98.6199
+UT Tyler,University of Texas,,,,,,,,,,cwa-tseu.org,CWA,,,,,,Smith,,,32.3165185,-95.2518715
+University of Texas at Austin,University of Texas,,,,,,,,,,cwa-tseu.org,CWA,All public texas universities might be covered. Info: https://thedailytexan.com/2022/05/11/student-workers-consider-joining-a-union/,Public,,,Austin,Travis,Texas,$16.41,30.2853755,-97.735642
+University of Texas at Dallas,University of Texas,,,,,,,,,,cwa-tseu.org,CWA,All public texas universities might be covered. Info: https://thedailytexan.com/2022/05/11/student-workers-consider-joining-a-union/,Public,,,Richardson,Dallas,Texas,$16.41,32.985556,-96.750326
+University of California,System,,,,,,,,,,uaw2865.org,UAW,,Public,,,,Alameda,California,$21.82,33.981185,-117.332083
+"University of California, Berkeley",University of California,,,,,,,,,,uaw2865.org,UAW,,Public,,,Berkeley,Alameda,California,$21.82,37.870482,-122.258521
+"University of California, Davis",University of California,,,,,,,,,,uaw2865.org,UAW,,Public,,,Davis,Yolo,California,$21.82,38.539555,-121.75182699999999
+"University of California, Los Angeles (UCLA)",University of California,,,,,,,,,,uaw2865.org,UAW,,Public,,,Los Angeles,Los Angeles,California,$21.82,34.070845,-118.44548175
+"University of California, Irvine",University of California,,,,,,,,,,uaw2865.org,UAW,,Public,,,Irvine,Orange,California,$21.82,33.641812,-117.832742
+"University of California, Merced",University of California,,,,,,,,,,uaw2865.org,UAW,,Public,,,Merced,Merced,California,$21.82,37.364650999999995,-120.4276265
+"University of California, Riverside",University of California,,,,,,,,,,uaw2865.org,UAW,,Public,,,Riverside,Riverside,California,$21.82,33.975133,-117.329996
+"University of California, San Diego",University of California,,,,,,,,,,uaw2865.org,UAW,,Public,,,La Jolla,San Diego,California,$21.82,32.879793,-117.23892
+"University of California, Santa Barbara",University of California,,,,,,,,,,uaw2865.org,UAW,,Public,,,Santa Barbara,Santa Barbara,California,$21.82,34.413272,-119.84887
+"University of California, Santa Cruz",University of California,,,,,,,,,,uaw2865.org,UAW,,Public,,,Santa Cruz,Santa Cruz,California,$21.82,36.992476,-122.058858
+"University of California, San Francisco",University of California,,,,,,,,,,uaw2865.org,UAW,,Public,,,San Francisco,San Francisco,California,$21.82,37.776259,-122.391729
+Tufts University,,,,,,,,,,,no website,SEIU,Local 509,Private,,,Medford,Middlesex,Massachusetts,$21.88,42.406357,-71.120843
+Tulane University,,,,,,,,,,,,,,Private,,,New Orleans,Orleans Parish,Louisiana,$16.15,29.938629,-90.1224125
+University at Buffalo (SUNY),,,,,,,,,,,ubgseu.com,CWA,,Public,,,Buffalo,Erie,New York,$21.99,43.0008,-78.7890
+University of Alabama,,,,,,,,,,,ucwal.org,UCW,multiple campuses,Public,,,Tuscaloosa,Tuscaloosa,Alabama,$15.91,33.2104205,-87.547887
+University of Chicago,,,,,,,,,,,uchicagogsu.org,UE,,Private,,,Chicago,Cook,Illinois,$18.16,41.789889,-87.604687
+University of Colorado,System,,,,,,,,,,,,,,,,,Boulder,,,40.007546,-105.271634
+University of Colorado Anschutz Medical Campus,University of Colorado,,,,,,,,,,ucwcolorado.org,CWA,Local 7799,Public,combined across all campuses,,Aurora,Arapahoe,Colorado,$19.16,39.746907,-104.836993
+University of Colorado Boulder,University of Colorado,,,,,,,,,,ucwcolorado.org,CWA,Local 7799,Public,combined across all campuses,,Boulder,Boulder,Colorado,$19.16,40.007045000000005,-105.2676765
+University of Colorado Colorado Springs,University of Colorado,,,,,,,,,,ucwcolorado.org,CWA,Local 7799,Public,combined across all campuses,,Colorado Springs,El Paso,Colorado,$19.16,38.892101,-104.7982395
+University of Colorado Denver,University of Colorado,,,,,,,,,,ucwcolorado.org,CWA,Local 7799,Public,combined across all campuses,,Denver,Denver,Colorado,$19.16,39.744774500000005,-105.0027
+Colorado State University,System,3,,,,,,,,,csugradworkers.org,unknown,,Public,,,Fort Collins,Larimer,Colorado,$19.16,40.57112,-105.087848
+Colorado State University in Fort Collins,Colorado State University,,,,,,,,,,,,,,,,,,,,40.57112,-105.087848
+Colorado State University Pueblo,Colorado State University,,,,,,,,,,,,,,,,,,,,38.312754,-104.579405
+Colorado State University Global,Colorado State University,,,,,,,,,,,,,,,,,,,,40.539002,-105.116162
+University of Connecticut,,,,,,,,,,,uconngradunion.org,UAW,,Public,,,Storrs,Hartford,Connecticut,$19,41.807010500000004,-72.2481995
+University of Florida,,,,,,,,,,,ufgau.org,AFT,,Public,,,Gainesville,Alachua,Florida,$17.24,29.644242,-82.340993
+University of Hawai'i,,,,,,,,,,,academiclaborunited.org,none,Might have multiple campuses,Public,They are voting on ILWU though,,Honolulu,Honolulu,Hawaii,$21.99,21.297422500000003,-157.817621
+University of Iowa,,,,,,,,,,,cogs.org,UE,Local 896,Public,,,Iowa City,Johnson,Iowa,$16.18,41.658868999999996,-91.5483845
+University of North Carolina (UNC),System,,,,,,,,,,workersunionunc.com,UE,,,,,,Orange,,,34.2265115,-77.8754715
+Appalachian State University,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,36.214217500000004,-81.67820850000001
+East Carolina University,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,35.604665999999995,-77.36729249999999
+Elizabeth City State University,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,36.283787,-76.212275
+Fayetteville State University,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,35.075509,-78.892502
+North Carolina A&T University,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,36.079564,-79.774458
+North Carolina Central University,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,35.973744,-78.897065
+North Carolina State University,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,35.7861945,-78.6727755
+North Carolina School of Science and Math,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,36.0186495,-78.9209205
+University of North Carolina at Asheville,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,35.61634,-82.5663725
+University of North Carolina at Charlotte,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,35.3049605,-80.732797
+University of North Carolina at Chapel Hill,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,35.907882,-79.0500079375
+University of North Carolina at Greensboro,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,36.068495,-79.810993
+University of North Carolina at Pembroke,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,34.6890755,-79.2017025
+University of North Carolina School of the Arts,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,36.074959,-80.23648349999999
+University of North Carolina at Wilmington,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,34.2265115,-77.8754715
+Western Carolina University,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,,,,,,,,,35.310257,-83.1840885
+Winston-Salem State University,University of North Carolina (UNC),,,,,,,,,,workersunionunc.com,UE,Local 150,Public,multiple campuses,,Chapel Hill,Orange,North Carolina,$17.14,36.088307,-80.224758
+University of Oregon,,,,,,,,,,,gtff3544.net,AFT,Local 3544,Public,,,Eugene,Lane,Oregon,$19.51,44.044819000000004,-123.07493
+University of Pennsylvania,,,,,,,,,,,getup-uaw.org,UAW,,Private,,,Philadelphia,Philadelphia,Pennsylvania,$16.67,39.9492625,-75.191259
+University of Pittsburgh,,,,,,,,,,,twitter.com/PittGrads,USW,,Public,,,Pittsburgh,Allegheny,Pennsylvania,$16.67,40.443979,-79.9543695
+University of Rhode Island,,,,,,,,,,,urigau.org,NEARI,,Public,,,Kingston,Washington,Rhode Island,$17.80,41.482648999999995,-71.52618749999999
+University of South Florida,,,,,,,,,,,usfgau.org,unknown,,Public,,,Tampa,Hillsborough,Florida,$17.24,28.065505,-82.413457
+University System of Georgia,System,20,,,,,,,,,ucwga.com,UCW,covers 20/26 campuses,Public,,,Athens,Fulton,Georgia,$17.64,33.7539675,-84.386814
+Albany State University,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,31.569158,-84.141954
+Augusta University,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,33.470976,-81.990012
+Clayton State University,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,33.594433,-84.330761
+Dalton State College,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,34.774595500000004,-85.003312
+Fort Valley State University,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,32.537443,-83.896451
+Georgia College & State University,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,33.081455,-83.232352
+Georgia Gwinnett College,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,33.98047,-84.001855
+Georgia Highlands College,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,34.206544,-84.783408
+Georgia Institute of Technology,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,33.7763205,-84.394711
+Georgia Southern University,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,32.42289,-81.779259
+Georgia Southwestern State University,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,32.056247,-84.2176665
+Georgia State University,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,33.7539675,-84.386814
+Kennesaw State University,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,34.03438425,-84.58120925
+Middle Georgia State University,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,32.6166975,-83.6083865
+Savannah State University,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,32.024378,-81.062236
+University of Georgia,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,33.954395000000005,-83.374647
+University of North Georgia,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,34.529227,-83.985016
+University of West Georgia,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,33.572442249999995,-85.10376725
+Valdosta State University,University System of Georgia,,,,,,,,,,ucwga.com,UCW,,,,,,,,,30.84742,-83.289884
+University System of Tennessee,System,,,,,,,,,,https://ucwtn.org/,UCW,multiple campuses. CWA is parent of UCW,Public,,,Nashville,Davidson,Tennessee,$15.45,36.146879999999996,-86.80421050000001
+UT Knoxville,University System of Tennessee,,,,,,,,,,https://ucwtn.org/,UCW,,,,,,Knox,,,35.956695,-83.931785
+UT Chattanooga,University System of Tennessee,,,,,,,,,,https://ucwtn.org/,UCW,,,,,,Hamilton,,,35.010845,-85.221966
+East Tennessee State University (ETSU),University System of Tennessee,,,,,,,,,,https://ucwtn.org/,UCW,,,,,,Washington,,,36.303511,-82.36827
+Middle Tennessee State University (MTSU),University System of Tennessee,,,,,,,,,,https://ucwtn.org/,UCW,,,,,,Rutherford,,,36.176815,-86.760602
+Tennessee State University (TSU),University System of Tennessee,,,,,,,,,,https://ucwtn.org/,UCW,,,,,,Davidson,,,36.168164,-86.824395
+Austin Peay State University (APSU),University System of Tennessee,,,,,,,,,,https://ucwtn.org/,UCW,,,,,,Montgomery,,,36.536841,-87.350222
+Tennessee Tech University (TTU),University System of Tennessee,,,,,,,,,,https://ucwtn.org/,UCW,,,,,,Putnam,,,36.175613999999996,-85.507575
+University of Memphis,University System of Tennessee,,,,,,,,,,https://ucwtn.org/,UCW,,,,,,Shelby,,,35.1193385,-89.93734
+Lemoyne-Owen College,University System of Tennessee,,,,,,,,,,https://ucwtn.org/,UCW,,,,,,Shelby,,,35.118726,-90.034223
+UT Martin,University System of Tennessee,,,,,,,,,,https://ucwtn.org/,UCW,,,,,,Weakley,,,36.341639,-88.862803
+University of Utah,,,,,,,,,,,,,,Public,,,Salt Lake City,Salt Lake,Utah,$16.98,40.757559,-111.836463
+Vanderbilt University,,,,,,,,,,,vandygwu.com,unknown,,Private,,,Nashville,Davidson,Tennessee,$15.45,36.145224,-86.801362
+Virginia Commonwealth University,,,not on site,,not on site,not on site,not on site,not on site,not on site,not on site,ucwva.org/virginia-commonwealth-university,UCW,,Public,,,Richmond,Richmond,Virginia,$19.40,37.548297,-77.452015
+University of Washington,,,,,,,,,,,uaw4121.org,UAW,4121,Public,,,Seattle,King,Washington,$18.54,47.654538,-122.3076595
+Washington University in St. Louis,,,,,,,,,,,wugwu.org,unknown,,Private,,,St. Louis,St. Louis,Missouri,$16.29,38.646807,-90.310228
+Wayne State University,,,,,,,,,,,geocwsu.com,AFT,Local 6123,Public,,,Detroit,Wayne,Michigan,$16.36,42.3568145,-83.0696575
+Wesleyan University,,,,,,,,,,,twitter.com/wes_use,unknown,may be just undergrad,Private,,,Middletown,Middlesex,Connecticut,$19,41.5568,-72.6568
+Western Michigan University ,,,,,,,,,,,tau.mi.aft.org,AFT,,Public,,,Kalamazoo,Kalamazoo,Michigan,$16.36,42.28482,-85.616619
+"University of Wisconsin, Madison",,,,,,,,,,,taa-madison.org,AFT,,Public,,,Madison,Dane,Wisconsin,$16.40,43.071353,-89.407949
+"University of Wisconsin, Milkwaukee",,,,,,,,,,,uwmaaup.org,AAUP,,Public,,,Milwaukee,Milwaukee,Wisconsin,$16.40,43.0770915,-87.8816735
+Yale University,,,not on site,not on site,not on site,not on site,not on site,not on site,not on site,2023,local33.org,Unite Here,,Private,,,New Haven,New Haven,Connecticut,$19,41.3113795,-72.92584699999999
